@@ -1,0 +1,6 @@
+Data #class
+ch.axonivy.demo #namespace
+taskName String #field
+taskName PERSISTENT #fieldModifier
+oldTaskId Long #field
+oldTaskId PERSISTENT #fieldModifier

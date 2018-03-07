@@ -1,0 +1,4 @@
+TaskDialogData #class
+ch.axonivy.demo.TaskDialog #namespace
+taskName String #field
+taskName PERSISTENT #fieldModifier

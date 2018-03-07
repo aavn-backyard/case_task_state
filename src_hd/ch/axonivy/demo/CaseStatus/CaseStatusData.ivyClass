@@ -1,0 +1,6 @@
+CaseStatusData #class
+ch.axonivy.demo.CaseStatus #namespace
+caseId java.lang.Long #field
+caseId PERSISTENT #fieldModifier
+caseStatus ch.ivyteam.ivy.workflow.CaseState #field
+caseStatus PERSISTENT #fieldModifier
